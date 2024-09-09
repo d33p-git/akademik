@@ -18,6 +18,6 @@ Pembahasan
 
 Daftar Materi
 ======
-* Materi 1 : [Link text](http://d33p-git.github.io/akademik/files/2022_Sister_01_Mengenal_Sistem_Terdistribusi.pdf) 
-* Materi 2 : [Link text](http://d33p-git.github.io/akademik/files/2022_Sister_02_Review_Networking.pdf)
-* Materi 3 : [Link text](http://d33p-git.github.io/akademik/files/2022_Sister_03_Arsitektur_Sistem_Terdistribusi.pdf)
+* Materi 1 : [Sister_01_Mengenal_Sistem_Terdistribusi](http://d33p-git.github.io/akademik/files/2022_Sister_01_Mengenal_Sistem_Terdistribusi.pdf) 
+* Materi 2 : [Sister_02_Review_Networking](http://d33p-git.github.io/akademik/files/2022_Sister_02_Review_Networking.pdf)
+* Materi 3 : [Sister_03_Arsitektur_Sistem_Terdistribusi](http://d33p-git.github.io/akademik/files/2022_Sister_03_Arsitektur_Sistem_Terdistribusi.pdf)
