@@ -11,14 +11,14 @@ redirect_from:
 
 Education
 ======
-* -
-* -
-* -
+* a
+* b
+* c
 
 Work experience
 ======
 * Spring 2024: Academic Pages Collaborator
-  * -
+  * a
   * Duties includes: -
   * Supervisor: -
   
