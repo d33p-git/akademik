@@ -18,7 +18,7 @@ Pembahasan
 
 Daftar Materi
 ======
-* Materi 1 : [Pengantar Web Mining](http://d33p-git.github.io/akademik/files/1 - Pengantar_Web_Mining_Content.pdf) 
+* Materi 1 : [Pengantar Web Mining](http://d33p-git.github.io/akademik/files/1-Pengantar_Web_Mining_Content.pdf) 
 * Materi 2 : [Dasar dasar analisa atribut kategorikal](http://d33p-git.github.io/akademik/files/2-Data.pdf)
 * Materi 3 : [Analisa data dimensi tinggi](http://d33p-git.github.io/akademik/files/3-Analisa_Data_Dimensi_Tinggi_dan_Data_Preroses.pdf)
 * Materi 4 : [Rekayasa Fitur](http://d33p-git.github.io/akademik/files/4-Seleksi_Fitur.pdf) 
