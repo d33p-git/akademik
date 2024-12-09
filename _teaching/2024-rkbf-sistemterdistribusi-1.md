@@ -25,3 +25,4 @@ Daftar Materi
 * Materi 5 : [2022_Sister_05_Layanan Penamaan](http://d33p-git.github.io/akademik/files/2022_Sister_05_Layanan Penamaan.pdf)
 * Materi 6 : [2022_Sister_06_07_Teknik Sinkronisasi](http://d33p-git.github.io/akademik/files/2022_Sister_06_07_Teknik Sinkronisasi.pdf)
 * Materi 7 : [2022_Sister_06_07_Teknik Sinkronisasi](http://d33p-git.github.io/akademik/files/2022_Sister_06_07_Teknik Sinkronisasi.pdf)
+* Materi Lengkap : https://file.sakera.my.id/share/VtPnzhMj
